@@ -1,4 +1,4 @@
-a:link {
+a {
   text-decoration: none;,
   color: #5c7a80;
 }
@@ -33,6 +33,9 @@ ul {
   color: white;
 }
 
+h1 {
+  color: white;
+}
 ol {
   font-family: Roboto Condensed;
   color: white;
@@ -40,5 +43,5 @@ ol {
 
 body {
   background-color: gray;
-  border: 10px solid darkgray;
+  border: 10px solid #63ABB8;
 }
